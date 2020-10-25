@@ -118,9 +118,9 @@ def drink(cup1, cup2):
 ```
 
 <!-- Tables -->
-| Name | Type | Price |
-| -----|:----:| -----:|
-| Left Justified | Centered | Right Justified |
-| Short | Mini | 14.99 |
-| Medium String | Larger | 199.99 |
-| Really Long String | Maximum Length | 19099.99 |
+| Heading 1 | Heading 2 | Heading 3 | Heading 4 |
+| --------- |:--------- |:---------:| -----------:|
+| Default Justified | Left Justified | Centered | Right Justified |
+| 1.00 | 1.00 | 1.00 | 1.00 |
+| 1,000,000.00 | 1,000,000.00 | 1,000,000.00 | 1,000,000.00 |
+| 1,000,000,000,000.00 | 1,000,000,000,000.00 | 1,000,000,000,000.00 | 1,000,000,000,000.00 |
