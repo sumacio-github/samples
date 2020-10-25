@@ -71,14 +71,38 @@ This is an `<span>inline code</span>` block
 
 <!-- Code Block -->
 ```
+<!-- Comment -->
+// Comment
+# Comment
 <html>
     <body>
         <h1>Hello World</h1>
         <p>This is a formatted block of code.</p>
     </body>
 </html>
+#tower-of-pisa {
+    font-style: italic;
+}
+sudo apt-get update
+sudo apt-get install git -y
+git clone https://github.com/sumacio-github/samples.git
+var coffee = new Coffee();
+while (working) {
+    if (coffee.isEmpty()) {
+        coffee.brew();
+        coffee.refill();
+    }
+    coffee.drink();
+    work.execute();
+}
+function drink(cup1, cup2) {
+    return cup1 + cup2;
+}
+def drink(cup1, cup2):
+    return cup1 + cup2
 ```
 ```html
+<!-- Comment -->
 <html>
     <body>
         <h1>Hello World</h1>
@@ -87,16 +111,22 @@ This is an `<span>inline code</span>` block
 </html>
 ```
 ```css
+// Comment
 #tower-of-pisa {
     font-style: italic;
 }
 ```
 ```bash
+# Comment
 sudo apt-get update
 sudo apt-get install git -y
 git clone https://github.com/sumacio-github/samples.git
 ```
 ```java
+/*
+* Comment
+/
+// Comment
 var coffee = new Coffee();
 while (working) {
     if (coffee.isEmpty()) {
@@ -108,11 +138,13 @@ while (working) {
 }
 ```
 ```javascript
+// Comment
 function drink(cup1, cup2) {
     return cup1 + cup2;
 }
 ```
 ```python
+# Comment
 def drink(cup1, cup2):
     return cup1 + cup2
 ```
