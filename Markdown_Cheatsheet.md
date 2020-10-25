@@ -118,9 +118,9 @@ def drink(cup1, cup2):
 ```
 
 <!-- Tables -->
-| Name | Department | Price |
+| Name | Type | Price |
 | -----|:----:| -----:|
 | Left Justified | Centered | Right Justified |
-| Lamp | Office | 14.99 |
-| Blender | Kitchen Appliance | 199.99 |
-| Dog Food Storage Container | Pet Supplies | 9.99 |
+| Short | Mini | 14.99 |
+| Medium String | Larger | 199.99 |
+| Really Long String | Maximum Length | 19099.99 |
