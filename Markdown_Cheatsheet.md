@@ -123,9 +123,9 @@ sudo apt-get install git -y
 git clone https://github.com/sumacio-github/samples.git
 ```
 ```java
-/*
+/**
 * Comment
-/
+*/
 // Comment
 var coffee = new Coffee();
 while (working) {
