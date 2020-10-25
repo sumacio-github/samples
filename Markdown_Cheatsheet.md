@@ -31,7 +31,9 @@ ___
 ---
 
 <!-- Blockquote -->
-> This is a blockquote
+> This is a blockquote 1
+> This is a blockquote 2
+> This is a blockquote 3
 
 <!-- Links -->
 [Sumac.io](https://github.com/sumacio-github)
