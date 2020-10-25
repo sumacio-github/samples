@@ -114,7 +114,6 @@ def drink(cup1, cup2):
 /* Comment */
 #tower-of-pisa {
     font-style: italic;
-    // font-weight: bold;
 }
 ```
 ```bash
