@@ -21,17 +21,17 @@ __This text__ is strong
 <!-- Strikethrough -->
 ~~This text~~ is strikethrough
 
-<!-- Horizontal Rule -->
-___
----
-
 <!-- Escape Characters -->
 \*This text\* is not italic
 
 \_\_This text\_\_ is not strong
 
+<!-- Horizontal Rule -->
+___
+---
+
 <!-- Blockquote -->
-> This is a quote
+> This is a blockquote
 
 <!-- Links -->
 [Sumac.io](https://github.com/sumacio-github)
